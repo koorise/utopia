@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://utopia-studio.com/blog/2013/03/03/ok-man/</loc>
-        <lastmod>2013-03-03T19:34:18+08:00</lastmod>
+        <loc>http://koorise.github.com/utopia/blog/2013/03/03/first-log/</loc>
+        <lastmod>2013-03-03T21:33:27+08:00</lastmod>
     </url>
     <url>
-        <loc>http://utopia-studio.com/blog/archives/</loc>
-        <lastmod>2013-03-03T19:34:18+08:00</lastmod>
+        <loc>http://koorise.github.com/utopia/blog/archives/</loc>
+        <lastmod>2013-03-03T21:33:27+08:00</lastmod>
     </url>
     <url>
-        <loc>http://utopia-studio.com/</loc>
-        <lastmod>2013-03-03T19:34:18+08:00</lastmod>
+        <loc>http://koorise.github.com/utopia/</loc>
+        <lastmod>2013-03-03T21:33:27+08:00</lastmod>
     </url>
     <url>
-        <loc>http://utopia-studio.com/robots.txt</loc>
+        <loc>http://koorise.github.com/utopia/robots.txt</loc>
         <lastmod>2013-03-02T23:33:05+08:00</lastmod>
     </url>
 </urlset>

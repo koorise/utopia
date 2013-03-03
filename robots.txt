@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://utopia-studio.com/sitemap.xml 
+Sitemap: http://koorise.github.com/utopia/sitemap.xml 

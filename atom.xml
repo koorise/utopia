@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Utopia Studio]]></title>
-  <link href="http://utopia-studio.com/atom.xml" rel="self"/>
-  <link href="http://utopia-studio.com/"/>
-  <updated>2013-03-03T21:29:21+08:00</updated>
-  <id>http://utopia-studio.com/</id>
+  <link href="http://koorise.github.com/utopia/atom.xml" rel="self"/>
+  <link href="http://koorise.github.com/utopia/"/>
+  <updated>2013-03-03T21:35:19+08:00</updated>
+  <id>http://koorise.github.com/utopia/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[ok man]]></title>
-    <link href="http://utopia-studio.com/blog/2013/03/03/ok-man/"/>
-    <updated>2013-03-03T19:34:00+08:00</updated>
-    <id>http://utopia-studio.com/blog/2013/03/03/ok-man</id>
+    <title type="html"><![CDATA[first log]]></title>
+    <link href="http://koorise.github.com/utopia/blog/2013/03/03/first-log/"/>
+    <updated>2013-03-03T21:33:00+08:00</updated>
+    <id>http://koorise.github.com/utopia/blog/2013/03/03/first-log</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
