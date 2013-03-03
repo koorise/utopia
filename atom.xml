@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Utopia Studio]]></title>
+  <link href="http://utopia-studio.com/atom.xml" rel="self"/>
+  <link href="http://utopia-studio.com/"/>
+  <updated>2013-03-03T21:29:21+08:00</updated>
+  <id>http://utopia-studio.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ok man]]></title>
+    <link href="http://utopia-studio.com/blog/2013/03/03/ok-man/"/>
+    <updated>2013-03-03T19:34:00+08:00</updated>
+    <id>http://utopia-studio.com/blog/2013/03/03/ok-man</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
